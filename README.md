@@ -15,5 +15,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishkashukla&layout=compact&theme=radical)
 
-## 🌐 Connect with me
-[LinkedIn](https://www.linkedin.com/in/kanishkashukla25/)
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/kanishkashukla25/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
