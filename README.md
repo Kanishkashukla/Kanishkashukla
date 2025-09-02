@@ -1,1 +1,1 @@
-![HaikuReadme](https://chinmay29hub-haiku-readme.vercel.app//api?theme=cyberpunk&type=vertical&border=true&t=1756837984629)
+![HaikuReadme](https://chinmay29hub-haiku-readme.vercel.app//api?theme=cyberpunk&type=horizontal&border=true&t=1756837984629)
