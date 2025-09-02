@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey%20I'm%20Kay%20🚀&fontSize=30&fontAlign=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header)
 
 <!-- Banner -->
+<h1 align="center">👋 Hey, I’m <span style="color:#a855f7">Kanishka</span></h1>
 <h3 align="center">Full Stack Dev | Java ☕ + Python 🐍 + Everything I get on my way to learn | Techie</h3>
 
 ---
