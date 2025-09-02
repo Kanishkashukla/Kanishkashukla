@@ -11,7 +11,7 @@
 - 🌱 Currently: **JAVA Full Stack + Python**  
 ---
 
-![HaikuReadme](https://chinmay29hub-haiku-readme.vercel.app//api?theme=cyberpunk&type=horizontal&border=true&t=1756837984629)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishkashukla&layout=compact&theme=radical)
 
