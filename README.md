@@ -5,10 +5,10 @@
 ---
 
 ### ⚡ About Me
-- 💻 Love solving problems with clean code
-- 🎨 Building projects that are useful *and* optimized
-- ☕ Powered by coffee + late-night coding
-- 🌱 Currently: **JAVA Full Stack + Python**
+🔧 Full Stack Developer who loves turning ideas into working software  
+📈 Focused on writing clean, maintainable, and scalable code  
+🌍 Exploring Java, Python, and skills mentioned below to build impactful apps  
+🚀 Strong believer in learning fast and delivering value
 ---
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
