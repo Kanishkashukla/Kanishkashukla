@@ -5,11 +5,10 @@
 ---
 
 ### ⚡ About Me
-🔧 Full Stack Developer who loves turning ideas into working software  
-📈 Focused on writing clean, maintainable, and scalable code  
-🌍 Exploring Java, Python, and skills mentioned below to build impactful apps 
-💻 I code to solve problems, not just to write code
-🚀 Strong believer in learning fast and delivering value
+💻 Full Stack Dev who builds, breaks, and fixes faster than most  
+🔥 Java & Python are my go-to, but I pick up any tech when needed  
+⚡ Not here for buzzwords — here to make things work  
+🚀 Shipping ideas into real projects is the fun part
 
 ---
 
