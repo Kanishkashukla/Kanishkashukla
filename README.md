@@ -8,7 +8,7 @@
 🔧 Full Stack Developer who loves turning ideas into working software  
 📈 Focused on writing clean, maintainable, and scalable code  
 🌍 Exploring Java, Python, and skills mentioned below to build impactful apps  
-🚀 Strong believer in learning fast and delivering value
+🚀 Strong believer in learning fast and delivering value 
 💻 I code to solve problems, not just to write code  
 
 ---
