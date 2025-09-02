@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Hey, I’m <span style="color:#a855f7">Kanishka</span></h1>
-<h3 align="center">Full Stack Dev | Java ☕ + Python 🐍 | Creative Builder</h3>
+<h3 align="center">Full Stack Dev | Java ☕ + Python 🐍 | Techie</h3>
 
 ---
 
