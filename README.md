@@ -1,1 +1,1 @@
-![HaikuReadme]([https://chinmay29hub-haiku-readme.vercel.app/api?theme=dracula&type=horizontal&border=false&t=1756775075](https://camo.githubusercontent.com/2e249b88a2cb41fa53c41754d07e30f6e35ef8bab3dd1508249747f8b6f47510/68747470733a2f2f6368696e6d617932396875622d6861696b752d726561646d652e76657263656c2e6170702f6170693f7468656d653d64726163756c6126747970653d686f72697a6f6e74616c26626f726465723d7472756526743d31373536373735303735))
+![HaikuReadme](https://chinmay29hub-haiku-readme.vercel.app//api?theme=cyberpunk&type=vertical&border=true&t=1756837984629)
